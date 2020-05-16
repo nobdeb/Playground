@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+ int n;
+ float f;
+ char c;
+ double d;
+ cout<<sizeof(char);
+ cout<<"\n"<<sizeof(int);
+ cout<<"\n"<<sizeof(float);
+ cout<<"\n"<<sizeof(double);
+}
